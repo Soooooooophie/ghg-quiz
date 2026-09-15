@@ -16,8 +16,6 @@ A full-stack web app built for live classroom use: the teacher controls question
 - Stack: Node.js, Express, Socket.io, React.  
 - **CI/CD via GitHub → Railway** — every push deploys to production automatically.
 
-## Built by
 
-**Sophie (Yu-Chun Chen)** — AI PM / engineer.
 
 &nbsp;
